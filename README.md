@@ -27,7 +27,8 @@
   <a href="https://www.instagram.com/_diegopetrucci/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
-  </a<a href="https://discord.com/users/295724949006712843" target="_blank">
+  </a
+  <a href="https://discord.com/users/295724949006712843" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   
